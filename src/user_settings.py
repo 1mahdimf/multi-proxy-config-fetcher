@@ -24,9 +24,9 @@ SOURCE_URLS = [
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria", 
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
-    "https://t.me/ConfigsHubPlus",
-    "https://t.me/AR14N24b", 
-    "http://t.me/DailyV2ry", 
+    "https://t.me/s/ConfigsHubPlus",
+    "https://t.me/s/AR14N24b", 
+    "http://t.me/s/DailyV2ry", 
     # Add more URLs here if you want to include additional sources.
 ]
 

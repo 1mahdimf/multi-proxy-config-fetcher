@@ -11,7 +11,7 @@ SOURCE_URLS = [
     "https://t.me/s/prrofile_purple",
     "https://t.me/s/meli_proxyy",
     "https://t.me/s/DirectVPN",
-    "https://t.me/s/moftconfig",
+    # "https://t.me/s/moftconfig",
     # "https://t.me/s/proxyiranip",
     # "https://t.me/s/v2nodes",
     "https://t.me/s/grizzlyvpn",
@@ -24,6 +24,9 @@ SOURCE_URLS = [
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
     # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria", 
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
+    "https://t.me/ConfigsHubPlus",
+    "https://t.me/AR14N24b", 
+    "http://t.me/DailyV2ry", 
     # Add more URLs here if you want to include additional sources.
 ]
 

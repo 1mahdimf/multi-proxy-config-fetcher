@@ -294,9 +294,11 @@ ss://YWVzLTI1Ni1nY206T205RW9ObnUzRDBpSlMrTlUvQ1dza1N5dUkrd1dSamRKbE02VG82bys5VT0
 
 trojan://0RiSuJPsug%23v@104.21.43.168:443?path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#@meli_proxyy
 
-trojan://Aimer@199.34.228.190:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+trojan://Aimer@216.198.53.212:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San Francisco (Mid-Market)🅿️ping:8.43ms
 
-trojan://Aimer@199.34.230.9:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Oakland (Downtown Oakland)🅿️ping:8.0ms
+trojan://Aimer@46.254.93.52:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ɪɴᴅᴏɴᴇsɪᴀ(ɪᴅ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
+trojan://Aimer@46.254.93.52:8443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇮🇩®️Indonesia©️Medan🅿️ping:8.1ms
 
 trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#@meli_proxyy
 
@@ -347,8 +349,6 @@ trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.47.142.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.47.68.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@52.47.68.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.57ms
 
 trojan://telegram-id-directvpn@63.176.181.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -422,9 +422,17 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNyIsImFkZCI6IjU3LjEyOS4yNC4xMjUiLCJwb3J0Ijoi
 
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoiPj5AZnJlZTRhbGxWUE46OkNBIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiIxMDQuMTguMTQ5Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1cy5ra3AubWUuZXUub3JnIiwiaWQiOiJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InVzLmtrcC5tZS5ldS5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxMDQuMjEuMy4xODkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsImlkIjoiMmZjMzc3MTMtMzAxNy00OTdlLWZmMmQtOTY1ZjgyNmExOWEzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
 vmess://eyJhZGQiOiJ2dDYuaHViZG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYW1hLmlyIiwiaWQiOiIxNTM5ZDkzZS1mYzhlLTQ0NjQtOTc0YS05MjMzYzJjYTY2MjkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6Ij4+QFYycmF5TkczOjpCUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vmess://eyJhZGQiOiJvdi1nZXJtYW55Ny4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGI3ZWM5OGQtYzI5MS00MDM0LTk3MTktZTZkNjIwNTE2MzZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4NDQzIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJzcjEwLm1pbmhvc3Quc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY3OTNhYzgxLTRhYjItNDU5Yy04MzNiLWU2YTZlMzQ4NzNhMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MiIsInBzIjoiMzAw2q/bjNqvIDM52KrZiNmF2KfZhiEg2KrYs9iq4oCM2LHYp9uM2q/Yp9mG8J+kqVRpY2tWMmJvdEAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6Ij4+QFYycmF5TkczOjpCUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 

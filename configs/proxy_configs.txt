@@ -28,8 +28,6 @@ vless://06edae88-3917-4853-a352-f70c2c6e14ae@viop.fast.hosting-ip.com:80?mode=au
 
 vless://08016b13-fb33-4b61-9608-cf79d5e27414@se.panelmarzban.com:3039?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%40ROFLVPN
 
-vless://0ac2cfd0-9ff1-4b82-882b-8c651c464ae9@94.183.158.10:8083?path=%2F&security=none&encryption=none&type=ws#%40config_v2ray_vpn%F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
-
 vless://0b91b8ed-5fe7-4ebf-aa81-0d1c7d2c0136@91.107.163.43:42370?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💧
 
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram%3A%40FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍓
@@ -172,9 +170,13 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&amp;se
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40DailyV2RY%3A%3AUS
 
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
+
 trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#@meli_proxyy
 
-trojan://SSorg@135.84.64.77:2096?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Atlanta🅿️ping:8.11ms
+trojan://SSorg@108.165.152.98:2087?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#[🇮🇳]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ɪɴᴅɪᴀ(ɪɴ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
+trojan://SSorg@188.164.159.171:443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:8.29ms
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#🇩🇪All⁴ | @meli_proxyy
 
@@ -372,11 +374,11 @@ vmess://eyJhZGQiOiIxMDQuMjEuMC4wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 
 vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
 vmess://eyJhZGQiOiJ2dDYuaHViZG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiYW1hLmlyIiwiaWQiOiIxNTM5ZDkzZS1mYzhlLTQ0NjQtOTc0YS05MjMzYzJjYTY2MjkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgxIiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy0zNTc2Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjA3MTQ4MjYxLjItc2VuYXRvci5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6Ij4+QFYycmF5TkczOjpCUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-
-vmess://eyJhZGQiOiJwcm9tLmxlYXJuLW5ldy5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29mdDk4LmlyIiwiaWQiOiI3MGEzMzI4NC00Y2FiLTRjNDMtOGU4NC01NmYxODhiMGFiZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1FVZU1FV3V0WlBZWVZubktqIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
